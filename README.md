@@ -1,3 +1,3 @@
-# -08MBID-VD-Trabajo
+# 08MBID-VD-Trabajo
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-wfwvjp)
